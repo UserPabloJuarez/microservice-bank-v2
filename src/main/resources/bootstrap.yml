@@ -1,0 +1,14 @@
+server:
+  port: 8090
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: bank-product-service
+      #username: xyz
+      #password: xyz
+
+
+
